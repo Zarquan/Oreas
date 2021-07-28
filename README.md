@@ -1,5 +1,5 @@
 # Oreas
-A project to collect metadata for registering IVOA software in the OSSR.
+A project to collect metadata for describing IVOA software.
 
 Named after the [Celastrina Oreas](https://en.wikipedia.org/wiki/Celastrina_oreas) butterfly.
 
